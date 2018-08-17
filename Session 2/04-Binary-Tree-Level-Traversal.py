@@ -49,7 +49,7 @@ def binary_tree_level_traversal_1(root):
 #   Space: O(2 ^ d), where d is the depth of the binary tree
 
 # ---- Approach 2
-# Idea: Depth-First Search (Modified Preorder Traversal: Root, Right, Left)
+# Idea: Depth-First Search (Preorder Traversal)
 #
 # Implementation:
 def binary_tree_level_traversal_2(root):
